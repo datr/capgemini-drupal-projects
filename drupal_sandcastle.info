@@ -1,0 +1,7 @@
+name = Drupal Sandcastle
+description = Creates a drupal projects server.
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+
+dependencies[] = project
